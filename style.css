@@ -1,0 +1,7 @@
+.container {
+    height: 100vh; /*altura da tela */
+    display: flex;
+    justify-content: center; /*centraliza na horizontal */
+    align-items: center;
+    
+}
